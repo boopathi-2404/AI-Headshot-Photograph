@@ -1,0 +1,6 @@
+{
+  "name": "AI Headshot Photographer",
+  "description": "Transform your casual selfies into professional, high-quality headshots in various backdrops and styles using Gemini AI.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
